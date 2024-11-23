@@ -19,3 +19,4 @@ for i in numbers:
 print('правильные числа ', primes)
 print('составные числа ',not_primes)
 
+
